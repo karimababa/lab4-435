@@ -1,0 +1,68 @@
+html{
+  background-color: rgb(224, 236, 253);
+}
+
+#titre{
+  color: rgb(151, 187, 241);
+}
+
+.App {
+  text-align: center;
+  font-family:'Trebuchet MS';
+  color: rgb(53, 88, 141);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.form input{
+  width: 300px;
+  height: 60px;
+  margin: 10px;
+  font-size:25px;
+}
+
+.card {
+  width:500px;
+  height:170px;
+  border: 2px solid black;
+  border-radius:15px;
+  margin: 10px;
+  border-color: rgb(149, 191, 228);
+  background-color: rgb(224, 236, 253);
+}
+
+button{
+  color: rgb(53, 88, 141);
+  background-color: rgb(149, 191, 228);
+  border-style: none;
+  border-radius: 40cm;
+}
+
+#updateInput{
+  width:100px;
+  height:20px;
+  margin-bottom:10px;
+}
+
+input{
+  border-color: rgb(41, 76, 128);
+  border-radius: 0.1cm;
+}
+
+.box {
+  border: 1px solid ;
+  padding: 20px;
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(41, 76, 128);
+  background-color: rgb(184, 217, 246);
+  
+}
+
+
